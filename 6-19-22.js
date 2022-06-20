@@ -30,4 +30,4 @@ function firstNonConsecutive(arr) {
       }
     }
     return null
-  }
+  } /// cray man
