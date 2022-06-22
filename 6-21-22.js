@@ -15,4 +15,4 @@
 function noBoringZeros(n) {
     while(n%10==0 && n!=0){n/=10;}  // while the number devided by 10 will yeild 0 remainder and the number is NOT 0, if so divide the number by 10.
     return n;  // return the number as proccesed.
-  }
+  } //buzz buzz gang gang
