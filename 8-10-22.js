@@ -13,3 +13,7 @@ function twoDecimalPlaces(n) {
 
 
 //multiplies the number by 100, Math.round() well rounds said number and then then the rounded number and devides it by 100 to give us our decimal number reduced  
+
+// arrow function 
+
+//const twoDecimalPlaces = n =>  Number(n.toFixed(2))
