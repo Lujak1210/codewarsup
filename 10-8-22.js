@@ -7,4 +7,4 @@
 var websites = [];
 while (websites.length < 1000) websites.push("codewars")
 
-// while loop with a .length, if length is less that 1000 push a websites into an array  
+// while loop with a .length, if length is less that 1000 push a "codewars" into an array.  
