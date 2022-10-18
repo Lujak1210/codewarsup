@@ -22,5 +22,5 @@
 //What?? oh the disrespect!!
 
 var findAverage = function(nums){// the value of findAverage is a function that takes in numbers 
-    return nums.reduce((a, b) => a + b, 0) / nums.length; // returns the value of the numbers provided, added up and divided by the amount of numbers provided, ya feel me?? Average and junk.
+    return nums.reduce((a, b) => a + b, 0) / nums.length; // returns the value of the numbers provided, added up and divided by the amount of numbers provided, ya feel me?? Average and junk. man oh man I forgot the electric slide!!!
   }
