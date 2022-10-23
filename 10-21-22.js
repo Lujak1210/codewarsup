@@ -15,4 +15,9 @@ function cookie(x){
   }
 
   // Who ate the last cookie? it was , if string? it was Zach. if number?, twas monica (utilizing [typeof x]) or shoot that damn dog
-  
+ 
+ 
+ // thicc one !
+  function cookie(x){
+    return typeof x == "string" ? "Who ate the last cookie? It was Zach!" : typeof x == "number" ? "Who ate the last cookie? It was Monica!" : "Who ate the last cookie? It was the dog!";
+  }
